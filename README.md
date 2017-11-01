@@ -10,3 +10,7 @@ or
 ```bash
 node --experimental-modules main.mjs
 ```
+or
+```bash
+yarn start
+```
